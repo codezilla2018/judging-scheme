@@ -14,3 +14,4 @@
 
 - [Shalitha Suranga](https://github.com/shalithasuranga) - Mozilla Campus Club - UWU
 - [Imesh Umayanga](https://github.com/imesh94) - Mozilla Campus Club - UWU
+- [Isuru Edirisinghe](https://github.com/isuru117) - Mozilla Campus Club - UWU
